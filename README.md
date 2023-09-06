@@ -1,7 +1,7 @@
-# Music-Recommendation-System-Using-Machin-Learning
+# Music-Recommendation-System-Using-Machine-Learning
 
 # Introduction 
-A Music-Recommendation-System-Using-Machin-Learning (Python),Jupyter notebook and OpenCV 
+A Music-Recommendation-System-Using-Machine-Learning (Python),Jupyter notebook and OpenCV 
 
 
 # Dataset
